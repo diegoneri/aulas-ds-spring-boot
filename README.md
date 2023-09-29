@@ -17,9 +17,12 @@
 
 ## Site de apoio - Desenvolvimento para Servidores II
 
+![Logo em cores da FATEC RL](content/logo/fatec_rl-cor.png)
+
 ### [FATEC Rubens Lara](https://fatecrl.edu.br/) - [Sistemas para Internet](https://fatecrl.edu.br/cursos/sistemas-para-internet/)
 
-![Logo em cores da FATEC RL](content/logo/fatec_rl_cor-200.png)
+
+
 ## 🛠 Ferramentas
 
 - [Spring](<https://spring.io/>)
@@ -50,8 +53,6 @@
 - 📖 [Java, Java EE (ou Jakarta EE)]  _em breve_
 - 📖 [Spring Framework]  _em breve_
 - 📖 [Spring Boot]  _em breve_
-
-![Hello Spring!](content/images/hello-spring.gif)
 
 ### 🔢 5) Spring Boot - Primeiros Passos
 
