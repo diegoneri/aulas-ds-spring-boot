@@ -43,9 +43,9 @@
 
 ### 📚 2) Rest APIs e Arquitetura Restful
 
-- 📖 [REST (_Representational State Transfer_)](content/02.1-rest.md)
+- 📖 [REST (_Representational State Transfer_) e RESTFul (_Representational State Transfer_)](content/02.1-rest.md)
+- 📖 [Modelo de Maturidade de Richardson para APIs](content/02.2-restful.md)
 - 📷 [Desenvolvimento para Servidores-II - Introdução ao Spring Boot](https://docs.google.com/presentation/d/1ax0Mub_4ypT3qm4OQ_pRcVYrW9GDcsHnF4Svv4Gb36o)
-- 📖 [RESTFul (_Representational State Transfer_)] _em breve_
 
 ### 📚 3) Swagger e documentação de APIs
 
