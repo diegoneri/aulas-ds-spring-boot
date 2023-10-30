@@ -45,7 +45,6 @@
 
 - 📖 [REST (_Representational State Transfer_) e RESTFul (_Representational State Transfer_)](content/02.1-rest.md)
 - 📖 [Modelo de Maturidade de Richardson para APIs](content/02.2-restful.md)
-- 📷 [Desenvolvimento para Servidores-II - Introdução ao Spring Boot](https://docs.google.com/presentation/d/1ax0Mub_4ypT3qm4OQ_pRcVYrW9GDcsHnF4Svv4Gb36o)
 
 ### 📚 3) Swagger e documentação de APIs
 
@@ -59,6 +58,7 @@
 
 ### 🔢 5) Spring Boot - Primeiros Passos
 
+- 📷 [Desenvolvimento para Servidores-II - Introdução ao Spring Boot](https://docs.google.com/presentation/d/1ax0Mub_4ypT3qm4OQ_pRcVYrW9GDcsHnF4Svv4Gb36o)
 - 📖 [Criação do ambiente de desenvolvimento - _Spring Tools_]  _em breve_
 - 📖 [Gerenciamento de dependências - _Maven, Gradle_]  _em breve_
 - 📖 [Spring initializr - _start.spring.io_]  _em breve_
