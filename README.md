@@ -39,14 +39,15 @@
 - 📖 [Programação para Servidores - Backend](content/01.1-backend.md)
 - 📖 [Serviços Web](content/01.2-web-services.md)
 
-### 📚 2) Rest APIs e Arquitetura Restful
+### 📚 2) HTTP, REST e RESTful
 
+- 📖 [HTTP](content/02.0-http.md)
 - 📖 [REST (_Representational State Transfer_) e RESTFul (_Representational State Transfer_)](content/02.1-rest.md)
 - 📖 [Modelo de Maturidade de Richardson para APIs](content/02.2-maturity-level.md)
 
-### 📚 3) Swagger e documentação de APIs
+### 📚 3) (Web) APIs, documentação e design
 
-- 📖 [TBD]  _em breve_
+- 📖 [APIs](content/03-1-apis.md)
 
 ### 👔 4) Java, Jakarta EE, Spring e Spring Boot
 
