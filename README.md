@@ -60,7 +60,7 @@
 
 ### 📚 5) Swagger e documentação de APIs
 
-- 📖 [TBD]  _em breve_
+- 📷 [Desenvolvimento para Servidores-II - Spring Doc / Swagger](https://docs.google.com/presentation/d/1hu7_zQc3Y172kUDhBT5IZ3Fr6Z0m1lyE-gXIn8wq5Ds/edit?usp=sharing)
 
 ### 👁 6) Spring Data
 
