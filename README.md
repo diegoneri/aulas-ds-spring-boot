@@ -79,9 +79,10 @@
 | ---                                     | -----------                 | -----       | -----             |
 | Rest APIs e Arquitetura Restful         | Questionário                | 18/11/2023  | Entrega via Teams |
 | API - Conta corrente                    | Exercício em aula           | 11/11/2023  | Entrega via Teams |
-| APIs - Projeto de APIs                  | Atividade Prática em Grupo  | 25/11/2023  | Entrega via Teams |
-| APIs - Documentação de APIs             | Atividade Prática em Grupo  | 25/11/2023  | Entrega via Teams |
-| APIs com Banco de dados                 | Atividade Prática em Grupo  | 02/12/2023  | Entrega via Teams |
+| API - Projeto de APIs                   | Atividade Prática em Grupo  | 25/11/2023  | Entrega via Teams |
+| API - Documentação de APIs              | Atividade Prática em Grupo  | 25/11/2023  | Entrega via Teams |
+| API - Banco de dados                    | Atividade Prática em Grupo  | 02/12/2023  | Entrega via Teams |
+
 
 ### 🌎 Links úteis
 
