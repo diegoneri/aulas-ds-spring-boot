@@ -64,8 +64,7 @@
 
 ### 👁 6) Spring Data
 
-- 📖 [Spring Data JPA]  _em breve_
-- 📖 [Spring Data MongoDB]  _em breve_
+- 📖 [Spring Data JPA](https://docs.google.com/presentation/d/1C_V9mEnG3ssFfdYVHBYQAC3zOa_mXBoe_u83vXhV7_s/edit?usp=sharing)
 
 ## 🥋 Exercícios
 
