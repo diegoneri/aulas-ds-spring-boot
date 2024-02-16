@@ -30,14 +30,14 @@
 
 ## Conteúdo
 
-**Legenda:** 📷 Slides \| 📺 Vídeo-aula no YouTube \| 📖 Material em texto e imagens \|  já estudado neste semestre \| 🔥 novo
+**Legenda:** 📷 Slides \| 📺 Vídeo-aula no YouTube \| 📖 Material em texto e imagens \|  ✅ já estudado neste semestre \| 🔥 novo
 
-### 📚 Introdução
+### 📚 Introdução ✅
 
-- 📷 [Programação para Web](https://docs.google.com/presentation/d/1W1dcLeHVS2Ln7MG7S5A7SaTsHD0iQBA5OxIyJTGeKLc/edit "Slides - Aulas Programação Web") - [Prof. Ermogenes Palacio](<https://github.com/ermogenes> "Github do Professor Ermogenes Palacio")
-- 📷 [Desenvolvimento para Servidores-II - Tecnologias de Programação Web](https://docs.google.com/presentation/d/1npVNbaS8hyEi5x5X5aXqxX37rppnTjkYakQRUSlRHik)
-- 📖 [Programação para Servidores - Backend](content/01.1-backend.md)
-- 📖 [Serviços Web](content/01.2-web-services.md)
+- 📷 [Programação para Web](https://docs.google.com/presentation/d/1W1dcLeHVS2Ln7MG7S5A7SaTsHD0iQBA5OxIyJTGeKLc/edit "Slides - Aulas Programação Web") - [Prof. Ermogenes Palacio](<https://github.com/ermogenes> "Github do Professor Ermogenes Palacio") ✅
+- 📷 [Desenvolvimento para Servidores-II - Tecnologias de Programação Web] (https://docs.google.com/presentation/d/1npVNbaS8hyEi5x5X5aXqxX37rppnTjkYakQRUSlRHik) ✅
+- 📖 [Programação para Servidores - Backend](content/01.1-backend.md) ✅
+- 📖 [Serviços Web](content/01.2-web-services.md) ✅
 
 ### 📚 Rest APIs
 
