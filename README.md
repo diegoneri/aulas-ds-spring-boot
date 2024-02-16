@@ -35,7 +35,7 @@
 ### 📚 Introdução ✅
 
 - 📷 [Programação para Web](https://docs.google.com/presentation/d/1W1dcLeHVS2Ln7MG7S5A7SaTsHD0iQBA5OxIyJTGeKLc/edit "Slides - Aulas Programação Web") - [Prof. Ermogenes Palacio](<https://github.com/ermogenes> "Github do Professor Ermogenes Palacio") ✅
-- 📷 [Desenvolvimento para Servidores-II - Tecnologias de Programação Web] (https://docs.google.com/presentation/d/1npVNbaS8hyEi5x5X5aXqxX37rppnTjkYakQRUSlRHik) ✅
+- 📷 [Desenvolvimento para Servidores-II - Tecnologias de Programação Web](https://docs.google.com/presentation/d/1npVNbaS8hyEi5x5X5aXqxX37rppnTjkYakQRUSlRHik) ✅
 - 📖 [Programação para Servidores - Backend](content/01.1-backend.md) ✅
 - 📖 [Serviços Web](content/01.2-web-services.md) ✅
 
@@ -67,51 +67,37 @@
 - 📷 [Spring Data JPA](https://docs.google.com/presentation/d/1C_V9mEnG3ssFfdYVHBYQAC3zOa_mXBoe_u83vXhV7_s/edit?usp=sharing)
 - 📷 [Spring Data Mongo] (_em breve_)
 
-## 🥋 Exercícios
-
-- _[✏ Rest APIs e Arquitetura Restful](content/exercises/02.2-analise-maturidade.md)
-- [⌨ API - Conta corrente](content/exercises/03.1-conta-corrente.md)
-- [⌨ APIs - Projeto de APIs](content/exercises/03.2-proposals.md)_
 
 ## 🗓 Calendário
 
 IDS-002, primeiro semestre de 2024:
 
-Semana | Data                | Conteúdo previsto                                                     
--------| ------------------- | --------------------------------------------------------------------- 
-1      | 15/02/2024          | [Introdução - Tecnologias Web](#-introdu%C3%A7%C3%A3o---tecnologias-web)
-2      | 22/02/2024  *AT1    | [Rest APIs](#-rest-apis)                                 
-3      | 29/02/2024          | [Spring e Spring Boot](#-spring-boot)                                
-4      | 07/03/2024          | [Spring Boot + Rest APIs](#-spring-boot--rest-apis)                          
-5      | 14/03/2024          | *Spring Bean Validation, Exceptions e Utilitários* (_em breve_)                                
-6      | 21/03/2024  *AT2    | [Documentação de APIs](#-swagger-e-documentação-de-apis)                          
-7      | 28/03/2024  **      | Iniciação do Projeto Prático / Seleção de temas       
-8      | 04/04/2024  **      | Verificação do andamento do projeto          
-9      | 11/04/2024  *P1     | Avaliação Individual - P1                            
-10     | 18/04/2024          | **Contêineres** (_em breve_)  
-11     | 25/04/2024          | [Spring Data JPA](#-spring-data-jpa)
-12     | 02/05/2024  *AT3    | **Spring Data MongoDB e Redis** (_em breve_)                               
-13     | 09/05/2024          | **Mensageria e Eventos** (_em breve_)                          
-14     | 16/05/2024          | **Spring Security** (_em breve_)           
-15     | 23/05/2024          | Check-point dos projetos                                          
---     | 30/05/2024          | _Feriado Nacional - CORPUS CHRISTI_              
-16     | 06/06/2024          | **Spring Cloud Gateway** (_em breve_)                                                     
-17     | 13/06/2024  *P2     | Apresentação dos Projetos (Turma 1)                          
-18     | 20/06/2024  *P2     | Apresentação dos Projetos (Turma 2)                                                      
-19     | 27/06/2024  *P3     | Avaliação Individual Substitutiva - P3
---     | 03/07/2024          | _Prazo final para lançamento de notas_         
-20     | 04/07/2024          | Considerações finais                                                                             
+Status | Semana | Data                | Conteúdo previsto                                                     
+-------|--------| ------------------- | --------------------------------------------------------------------- 
+  ✅   | 1     | 15/02/2024          | [Introdução - Tecnologias Web](#-introdu%C3%A7%C3%A3o---tecnologias-web)
+  ⏳   | 2      | 22/02/2024  *AT1    | [Rest APIs](#-rest-apis)                                 
+  ⏳   |3      | 29/02/2024          | [Spring e Spring Boot](#-spring-boot)                                
+  ⏳   |4      | 07/03/2024          | [Spring Boot + Rest APIs](#-spring-boot--rest-apis)                          
+  ⏳   |5      | 14/03/2024          | *Spring Bean Validation, Exceptions e Utilitários* (_em breve_)                                
+  ⏳   |6      | 21/03/2024  *AT2    | [Documentação de APIs](#-swagger-e-documentação-de-apis)                          
+  ⏳   |7      | 28/03/2024  **      | Iniciação do Projeto Prático / Seleção de temas       
+  ⏳   |8      | 04/04/2024  **      | Verificação do andamento do projeto          
+  ⏳   |9      | 11/04/2024  *P1     | Avaliação Individual - P1                            
+  ⏳   |10     | 18/04/2024          | **Contêineres** (_em breve_)  
+  ⏳   |11     | 25/04/2024          | [Spring Data JPA](#-spring-data-jpa)
+  ⏳   |12     | 02/05/2024  *AT3    | **Spring Data MongoDB e Redis** (_em breve_)                               
+  ⏳   |13     | 09/05/2024          | **Mensageria e Eventos** (_em breve_)                          
+  ⏳   |14     | 16/05/2024          | **Spring Security** (_em breve_)           
+  ⏳   |15     | 23/05/2024          | Check-point dos projetos                                          
+  ⏳   |--     | 30/05/2024          | _Feriado Nacional - CORPUS CHRISTI_              
+  ⏳   |16     | 06/06/2024          | **Spring Cloud Gateway** (_em breve_)                                                     
+  ⏳   |17     | 13/06/2024  *P2     | Apresentação dos Projetos (Turma 1)                          
+  ⏳   |18     | 20/06/2024  *P2     | Apresentação dos Projetos (Turma 2)                                                      
+  ⏳   |19     | 27/06/2024  *P3     | Avaliação Individual Substitutiva - P3
+  ⏳   |--     | 03/07/2024          | _Prazo final para lançamento de notas_         
+  ⏳   |20     | 04/07/2024          | Considerações finais                                                                             
  
 ** Aulas serão remanejadas para 4 terças-feiras
-
-[Plano de curso](http://eteab.com.br/cms/wp-content/uploads/2020/02/Inform%C3%A1tica-353_CS-1.pdf)
-
-[Calendário Escolar 2023](https://eteab.com.br/cms/wp-content/uploads/2023/01/CALENDARIO-GERAL-2023.pdf)
-
-- Entrega de resultados intermediários: 25 a 29/09/2023
-  - Conselho intermediário: 03 a 06/10/2023
-- Entrega de resultados finais: 15 a 19/12/2023
-  - Conselho final: 20/12/2023
 
 ---
 
