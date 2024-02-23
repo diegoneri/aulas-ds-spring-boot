@@ -39,10 +39,10 @@
 - 📖 [Programação para Servidores - Backend](content/01.1-backend.md) ✅
 - 📖 [Serviços Web](content/01.2-web-services.md) ✅
 
-### 📚 Rest APIs
+### 📚 Rest APIs ✅
 
-- 📖 [REST (_Representational State Transfer_) e RESTFul (_Representational State Transfer_)](content/02.1-rest.md)
-- 📖 [Modelo de Maturidade de Richardson para APIs](content/02.2-maturity-level.md)
+- 📖 [REST (_Representational State Transfer_) e RESTFul (_Representational State Transfer_)](content/02.1-rest.md) ✅
+- 📖 [Modelo de Maturidade de Richardson para APIs](content/02.2-maturity-level.md) ✅
 
 ### 🔢 Spring Boot
 
@@ -75,7 +75,7 @@ IDS-002, primeiro semestre de 2024:
 Status | Semana | Data                | Conteúdo previsto                                                     
 -------|--------| ------------------- | --------------------------------------------------------------------- 
   ✅   | 1     | 15/02/2024          | [Introdução - Tecnologias Web](#-introdu%C3%A7%C3%A3o---tecnologias-web)
-  ⏳   | 2      | 22/02/2024  *AT1    | [Rest APIs](#-rest-apis)                                 
+  ✅   | 2      | 22/02/2024  *AT1⏳    | [Rest APIs](#-rest-apis)                                 
   ⏳   |3      | 29/02/2024          | [Spring e Spring Boot](#-spring-boot)                                
   ⏳   |4      | 07/03/2024          | [Spring Boot + Rest APIs](#-spring-boot--rest-apis)                          
   ⏳   |5      | 14/03/2024          | *Spring Bean Validation, Exceptions e Utilitários* (_em breve_)                                
