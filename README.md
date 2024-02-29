@@ -46,7 +46,7 @@
 
 ### 🔢 Spring Boot
 
-- 📷 [Desenvolvimento para Servidores-II - Introdução ao Spring Boot](https://docs.google.com/presentation/d/1ax0Mub_4ypT3qm4OQ_pRcVYrW9GDcsHnF4Svv4Gb36o)
+- 📷 [Desenvolvimento para Servidores-II - Introdução ao Spring Boot](https://docs.google.com/presentation/d/1RwWEuKu0ZKVAkmaHvXmaijCQZdNVJJzXs3NK1_G20Bk)
 - 📖 [Criação do ambiente de desenvolvimento - _Spring Tools_](content/03.2-ambiente.md)
 - 📖 [Ferramentas de build - _Maven, Gradle_](content/03.3-build.md)
 - 📖 [Spring initializr - _start.spring.io_](content/03.4-initializr.md)
