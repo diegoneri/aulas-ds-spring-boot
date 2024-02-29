@@ -48,7 +48,7 @@
 
 - 📷 [Desenvolvimento para Servidores-II - Introdução ao Spring Boot](https://docs.google.com/presentation/d/1ax0Mub_4ypT3qm4OQ_pRcVYrW9GDcsHnF4Svv4Gb36o)
 - 📖 [Criação do ambiente de desenvolvimento - _Spring Tools_](content/03.2-ambiente.md)
-- 📖 [Gerenciamento de dependências - _Maven, Gradle_](content/03.3-dependencias.md)
+- 📖 [Ferramentas de build - _Maven, Gradle_](content/03.3-build.md)
 - 📖 [Spring initializr - _start.spring.io_](content/03.4-initializr.md)
 
 ### 🔢 Spring Boot + Rest APIs
@@ -67,6 +67,9 @@
 - 📷 [Spring Data JPA](https://docs.google.com/presentation/d/1C_V9mEnG3ssFfdYVHBYQAC3zOa_mXBoe_u83vXhV7_s/edit?usp=sharing)
 - 📷 [Spring Data Mongo] (_em breve_)
 
+## 🥋 Exercícios
+
+- [✏ Rest APIs e Arquitetura Restful](content/exercises/02.2-analise-maturidade.md)
 
 ## 🗓 Calendário
 
@@ -75,8 +78,8 @@ IDS-002, primeiro semestre de 2024:
 Status | Semana | Data                | Conteúdo previsto                                                     
 -------|--------| ------------------- | --------------------------------------------------------------------- 
   ✅   | 1     | 15/02/2024          | [Introdução - Tecnologias Web](#-introdu%C3%A7%C3%A3o---tecnologias-web)
-  ✅   | 2      | 22/02/2024  *AT1⏳    | [Rest APIs](#-rest-apis)                                 
-  ⏳   |3      | 29/02/2024          | [Spring e Spring Boot](#-spring-boot)                                
+  ✅   | 2     | 22/02/2024          | [Rest APIs](#-rest-apis)                                 
+  ⏳   |3      | 29/02/2024   *AT1   | [Spring e Spring Boot](#-spring-boot)                                
   ⏳   |4      | 07/03/2024          | [Spring Boot + Rest APIs](#-spring-boot--rest-apis)                          
   ⏳   |5      | 14/03/2024          | *Spring Bean Validation, Exceptions e Utilitários* (_em breve_)                                
   ⏳   |6      | 21/03/2024  *AT2    | [Documentação de APIs](#-swagger-e-documentação-de-apis)                          
