@@ -46,10 +46,10 @@
 
 ### 🔢 Spring Boot
 
-- 📷 [Desenvolvimento para Servidores-II - Introdução ao Spring Boot](https://docs.google.com/presentation/d/1RwWEuKu0ZKVAkmaHvXmaijCQZdNVJJzXs3NK1_G20Bk)
-- 📖 [Criação do ambiente de desenvolvimento - _Spring Tools_](content/03.2-ambiente.md)
-- 📖 [Ferramentas de build - _Maven, Gradle_](content/03.3-build.md)
-- 📖 [Spring initializr - _start.spring.io_](content/03.4-initializr.md)
+- 📷 [Desenvolvimento para Servidores-II - Introdução ao Spring Boot](https://docs.google.com/presentation/d/1RwWEuKu0ZKVAkmaHvXmaijCQZdNVJJzXs3NK1_G20Bk) ✅
+- 📖 [Criação do ambiente de desenvolvimento - _Spring Tools_](content/03.2-ambiente.md) ✅
+- 📖 [Ferramentas de build - _Maven, Gradle_](content/03.3-build.md) ✅
+- 📖 [Spring initializr - _start.spring.io_](content/03.4-initializr.md) ✅
 
 ### 🔢 Spring Boot + Rest APIs
 
@@ -79,8 +79,9 @@ Status | Semana | Data                | Conteúdo previsto
 -------|--------| ------------------- | --------------------------------------------------------------------- 
   ✅   | 1     | 15/02/2024          | [Introdução - Tecnologias Web](#-introdu%C3%A7%C3%A3o---tecnologias-web)
   ✅   | 2     | 22/02/2024          | [Rest APIs](#-rest-apis)                                 
-  ⏳   |3      | 29/02/2024   *AT1   | [Spring e Spring Boot](#-spring-boot)                                
+  ✅   |3      | 29/02/2024   *AT1   | [Spring e Spring Boot](#-spring-boot)                                
   ⏳   |4      | 07/03/2024          | [Spring Boot + Rest APIs](#-spring-boot--rest-apis)                          
+  ⛷️   |       | 10/03/2024          | Prazo final AT1 - Exercício [✏ Rest APIs e Arquitetura Restful](content/exercises/02.2-analise-maturidade.md)
   ⏳   |5      | 14/03/2024          | *Spring Bean Validation, Exceptions e Utilitários* (_em breve_)                                
   ⏳   |6      | 21/03/2024  *AT2    | [Documentação de APIs](#-swagger-e-documentação-de-apis)                          
   ⏳   |7      | 28/03/2024  **      | Iniciação do Projeto Prático / Seleção de temas       
