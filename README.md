@@ -70,6 +70,7 @@
 ## 🥋 Exercícios
 
 - [✏ Rest APIs e Arquitetura Restful](content/exercises/02.2-analise-maturidade.md)
+- [👨‍💻👩‍💻🔜👔 Projeto prático](content/exercises/03.2-proposals.md)
 
 ## 🗓 Calendário
 
@@ -80,11 +81,11 @@ Status | Semana | Data                | Conteúdo previsto
   ✅   | 1     | 15/02/2024          | [Introdução - Tecnologias Web](#-introdu%C3%A7%C3%A3o---tecnologias-web)
   ✅   | 2     | 22/02/2024          | [Rest APIs](#-rest-apis)                                 
   ✅   |3      | 29/02/2024   *AT1   | [Spring e Spring Boot](#-spring-boot)                                
-  ⏳   |4      | 07/03/2024          | [Spring Boot + Rest APIs](#-spring-boot--rest-apis)                          
-  ⛷️   |       | 10/03/2024          | Prazo final AT1 - Exercício [✏ Rest APIs e Arquitetura Restful](content/exercises/02.2-analise-maturidade.md)
+  ✅   |4      | 07/03/2024          | [Spring Boot + Rest APIs](#-spring-boot--rest-apis)                          
+  ✅   |       | 10/03/2024          | Prazo final AT1 - Exercício [✏ Rest APIs e Arquitetura Restful](content/exercises/02.2-analise-maturidade.md)
   ⏳   |5      | 14/03/2024          | *Spring Bean Validation, Exceptions e Utilitários* (_em breve_)                                
   ⏳   |6      | 21/03/2024  *AT2    | [Documentação de APIs](#-swagger-e-documentação-de-apis)                          
-  ⏳   |7      | 28/03/2024  **      | Iniciação do Projeto Prático / Seleção de temas       
+  ✅   |7      | 28/03/2024  (19/03/2024)      | [Iniciação do Projeto Prático / Seleção de temas](content/exercises/03.2-proposals.md)      
   ⏳   |8      | 04/04/2024  **      | Verificação do andamento do projeto          
   ⏳   |9      | 11/04/2024  *P1     | Avaliação Individual - P1                            
   ⏳   |10     | 18/04/2024          | **Contêineres** (_em breve_)  
@@ -101,7 +102,7 @@ Status | Semana | Data                | Conteúdo previsto
   ⏳   |--     | 03/07/2024          | _Prazo final para lançamento de notas_         
   ⏳   |20     | 04/07/2024          | Considerações finais                                                                             
  
-** Aulas serão remanejadas para 4 terças-feiras
+** Aulas serão remanejadas para terças-feiras 
 
 ---
 
