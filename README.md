@@ -60,7 +60,7 @@
 
 ### 📚 Documentação de APIs
 
-- 📷 [Desenvolvimento para Servidores-II - Spring Doc / Swagger](https://docs.google.com/presentation/d/1hu7_zQc3Y172kUDhBT5IZ3Fr6Z0m1lyE-gXIn8wq5Ds/edit?usp=sharing)
+- 📷 [Desenvolvimento para Servidores-II - Spring Doc / Swagger](https://docs.google.com/presentation/d/1t05E6B46_HVLWZTdI1PfvMxMkJ0VxPoenW24R3WqaVU/edit?usp=sharing)
 
 ### 👁 Spring Data JPA
 
