@@ -52,7 +52,7 @@
 - 📖 [Spring initializr - _start.spring.io_](content/03.4-initializr.md) ✅
 
 ### 🔢 Spring Boot + Rest APIs
-
+- 📷 [Desenvolvimento para Servidores-II - CRUD no Spring Boot + GIT](https://docs.google.com/presentation/d/1XGFe1ANaLRckr6DWOmV6MGxB188p3-xGaCI0rY4MmXY) ✅
 - 📖 [GET - _ler recurso(s)_]  (_em breve_)
 - 📖 [POST - _criar um novo recurso_]  (_em breve_)
 - 📖 [DELETE - _excluir recurso_]  (_em breve_)
