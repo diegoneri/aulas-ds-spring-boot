@@ -67,7 +67,7 @@
 
 ### 👁 Spring Utils
 
-- 📷 [Spring Utils] (_em breve_)
+- 📷 [Boas práticas com Spring](https://docs.google.com/presentation/d/12QH4_qgZ3BdSfE3vBVfK6ahZ-uk65obHpd5sYfR1tgc/edit?usp=sharing)
   
 ### 👁 Spring Security
 
@@ -90,22 +90,25 @@ Status | Semana | Data                | Conteúdo previsto
   ✅   |3      | 29/02/2024   *AT1   | [Spring e Spring Boot](#-spring-boot)                                
   ✅   |4      | 07/03/2024          | [Spring Boot + Rest APIs](#-spring-boot--rest-apis)                          
   ✅   |       | 10/03/2024          | Prazo final AT1 - Exercício [✏ Rest APIs e Arquitetura Restful](content/exercises/02.2-analise-maturidade.md)
-  ⏳   |5      | 14/03/2024   **     | *Spring Bean Validation, Exceptions e Utilitários* (_em breve_)                                
+  ✅   |5      | 14/03/2024   **     | *Spring Bean Validation, Exceptions e Utilitários* (_em breve_)                                
   ✅   |6      | 21/03/2024          | [Documentação de APIs](#-swagger-e-documentação-de-apis)                          
   ✅   |7      | 28/03/2024  (19/03/2024)      | [Iniciação do Projeto Prático / Seleção de temas](content/exercises/03.2-proposals.md)      
-  ✅   |8      | 04/04/2024        | Revisão da avaliação (08/04/2024) ~Verificação do andamento do projeto~          
+  ⏳   |8      | 04/04/2024        | Revisão da avaliação (08/04/2024) ~Verificação do andamento do projeto~          
   ✅   |9      | 11/04/2024  *P1     | Avaliação Individual - P1                            
   ⏳   |10     | 18/04/2024   **     | ~**Contêineres** (_em breve_)~  
   ✅   |11     | 25/04/2024          | [Spring Data JPA](#-spring-data-jpa)
-  ⏳   |12     | 02/05/2024          | [Spring Data JPA - Herança e Polimorfismo](#-spring-data-jpa)~**Spring Data MongoDB e Redis** (_em breve_)~                               
-  ⏳   |13     | 09/05/2024  *AT2    | Check-point dos projetos / [Exercício - Herança e Polimorfismo] ~**Mensageria e Eventos** (_em breve_)~                          
-  ⏳   |14     | 16/05/2024          | [Spring Data JPA - Queries](#-spring-data-jpa) ~**Spring Security** (_em breve_)~           
+  ✅   |12     | 02/05/2024          | [Spring Data JPA - Herança e Polimorfismo](#-spring-data-jpa)~**Spring Data MongoDB e Redis** (_em breve_)~                               
+  ✅   |13     | 09/05/2024  *AT2    | Check-point dos projetos / [Exercício - Herança e Polimorfismo] ~**Mensageria e Eventos** (_em breve_)~                          
+  ✅   |14     | 16/05/2024          | [Spring Data JPA - Queries](#-spring-data-jpa) ~**Spring Security** (_em breve_)~           
   ⏳   |15     | 23/05/2024          | Spring Bean Validation, Exceptions e Utilitários / Check-point dos projetos                                          
-  ⏳   |--     | 30/05/2024          | _Feriado Nacional - CORPUS CHRISTI_              
-  ⏳   |16     | 06/06/2024  *AT3    | **Spring Security** (_em breve_) ~**Spring Cloud Gateway** (_em breve_)~                                                     
-  ⏳   |17     | 13/06/2024  *P2     | Apresentação dos Projetos (Turma 1)                          
-  ⏳   |18     | 20/06/2024  *P2     | Apresentação dos Projetos (Turma 2)                                                      
-  ⏳   |19     | 27/06/2024  *P3     | Avaliação Individual Substitutiva - P3
+  ✅   |--     | 30/05/2024          | _Feriado Nacional - CORPUS CHRISTI_              
+  ⏳   |16     | 06/06/2024  *AT3    | Spring Bean Validation, Exceptions e Utilitários / Check-point dos projetos ~**Spring Security** (_em breve_)~ ~**Spring Cloud Gateway** (_em breve_)~                                                     
+  ⏳   |Rep    | 11/06/2024          | Check-point dos projetos / Sorteio de ordem (Terça-Feira - Reposição de aula - 04/04/2024)     
+  ⏳   |17     | 13/06/2024          | Spring Bean Validation, Exceptions e Utilitários                       
+  ⏳   |18     | 20/06/2024  *P2     | Apresentação dos Projetos (Turma 1)                          
+  ⏳   |Rep    | 18/06/2024          | Check-point dos projetos / Sorteio de ordem (Terça-Feira - Reposição de aula - 18/04/2024)       
+  ⏳   |19     | 27/06/2024  *P2     | Apresentação dos Projetos (Turma 2)                                                      
+  ⏳   |Rep    | 02/07/2024  *P3     | Avaliação Individual Substitutiva - P3 (Terça-Feira - Reposição de aula - 23/05/2024)
   ⏳   |--     | 03/07/2024          | _Prazo final para lançamento de notas_         
   ⏳   |20     | 04/07/2024          | Considerações finais                                                                             
  
