@@ -103,9 +103,9 @@ Status | Semana | Data                | Conteúdo previsto
   ✅   |14     | 16/05/2024          | [Spring Data JPA - Queries](#-spring-data-jpa) ~**Spring Security** (_em breve_)~           
   ⏳   |15     | 23/05/2024          | Spring Bean Validation, Exceptions e Utilitários / Check-point dos projetos                                          
   ✅   |--     | 30/05/2024          | _Feriado Nacional - CORPUS CHRISTI_              
-  ⏳   |16     | 06/06/2024          | Spring Bean Validation, Exceptions e Utilitários / Check-point dos projetos ~**Spring Security** (_em breve_)~ ~**Spring Cloud Gateway** (_em breve_)~                                                     
-  ⏳   |Rep    | 11/06/2024          | Check-point dos projetos / Sorteio de ordem (Terça-Feira - Reposição de aula - 04/04/2024)     
-  ⏳   |17     | 13/06/2024  *AT3    | [Spring Data JPA - Queries](#-spring-data-jpa) ~Spring Bean Validation, Exceptions e Utilitários~
+  ✅   |16     | 06/06/2024          | Spring Bean Validation, Exceptions e Utilitários / Check-point dos projetos ~**Spring Security** (_em breve_)~ ~**Spring Cloud Gateway** (_em breve_)~                                                     
+  ✅   |Rep    | 11/06/2024          | Check-point dos projetos / Sorteio de ordem (Terça-Feira - Reposição de aula - 04/04/2024)     
+  ✅   |17     | 13/06/2024  *AT3    | [Spring Data JPA - Queries](#-spring-data-jpa) ~Spring Bean Validation, Exceptions e Utilitários~
   ⏳   |18     | 20/06/2024  *P2     | Apresentação dos Projetos (Turma 1)                          
   ⏳   |Rep    | 18/06/2024          | Check-point dos projetos / Sorteio de ordem (Terça-Feira - Reposição de aula - 18/04/2024)       
   ⏳   |19     | 27/06/2024  *P2     | Apresentação dos Projetos (Turma 2)                                                      
