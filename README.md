@@ -100,7 +100,7 @@ Status | Semana | Data                | Conteúdo previsto
   ⏳   |11     | 17/10/2024   *AT2   | [Spring Data JPA - Herança e Polimorfismo](#-spring-data-jpa)
   ⏳   |12     | 24/10/2024          | Spring Bean Validation, Exceptions e Utilitários / Check-point dos projetos                             
   ⏳   |13     | 31/10/2024          | [Spring Data JPA - Queries](#-spring-data-jpa)
-  ⏳   |14     | 07/11/2024   *AT3   | ~**Spring Security** (_em breve_)~           
+  ⏳   |14     | 07/11/2024   *AT3   | **Spring Security** (_em breve_)
   ⏳   |15     | 14/11/2024          | Check-point dos projetos                                           
   ⏳   |16     | 21/11/2024          | Apresentação dos Projetos (Turma 1)             
   ⏳   |17     | 28/11/2024          | Apresentação dos Projetos (Turma 2)                                                  
