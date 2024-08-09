@@ -32,12 +32,12 @@
 
 **Legenda:** 📷 Slides \| 📺 Vídeo-aula no YouTube \| 📖 Material em texto e imagens \|  ✅ já estudado neste semestre \| 🔥 novo
 
-### 📚 Introdução 
+### 📚 Introdução ✅
 
-- 📷 [Programação para Web](https://docs.google.com/presentation/d/1W1dcLeHVS2Ln7MG7S5A7SaTsHD0iQBA5OxIyJTGeKLc/edit "Slides - Aulas Programação Web") - [Prof. Ermogenes Palacio](<https://github.com/ermogenes> "Github do Professor Ermogenes Palacio") 
-- 📷 [Desenvolvimento para Servidores-II - Tecnologias de Programação Web](https://docs.google.com/presentation/d/1npVNbaS8hyEi5x5X5aXqxX37rppnTjkYakQRUSlRHik) 
-- 📖 [Programação para Servidores - Backend](content/01.1-backend.md) 
-- 📖 [Serviços Web](content/01.2-web-services.md) 
+- 📷 [Programação para Web](https://docs.google.com/presentation/d/1W1dcLeHVS2Ln7MG7S5A7SaTsHD0iQBA5OxIyJTGeKLc/edit "Slides - Aulas Programação Web") - [Prof. Ermogenes Palacio](<https://github.com/ermogenes> "Github do Professor Ermogenes Palacio") ✅
+- 📷 [Desenvolvimento para Servidores-II - Tecnologias de Programação Web](https://docs.google.com/presentation/d/1npVNbaS8hyEi5x5X5aXqxX37rppnTjkYakQRUSlRHik) ✅
+- 📖 [Programação para Servidores - Backend](content/01.1-backend.md) ✅
+- 📖 [Serviços Web](content/01.2-web-services.md) ✅
 
 ### 📚 Rest APIs 
 
@@ -86,7 +86,7 @@ IDS-002, primeiro semestre de 2024:
 
 Status | Semana | Data                | Conteúdo previsto                                                     
 -------|--------| ------------------- | --------------------------------------------------------------------- 
-  ⏳   | 1     | 08/08/2024          | [Introdução - Tecnologias Web](#-introdu%C3%A7%C3%A3o---tecnologias-web)
+  ✅   | 1     | 08/08/2024          | [Introdução - Tecnologias Web](#-introdu%C3%A7%C3%A3o---tecnologias-web)
   ⏳   | 2     | 15/08/2024          | [Rest APIs](#-rest-apis)                                 
   ⏳   |3      | 22/08/2024   *AT1   | [Spring e Spring Boot](#-spring-boot)                                
   ⏳   |4      | 29/08/2024   **     | [Spring Boot + Rest APIs](#-spring-boot--rest-apis)                          
@@ -94,9 +94,9 @@ Status | Semana | Data                | Conteúdo previsto
   ⏳   |5      | 05/09/2024          | [Spring Boot + Rest APIs](#-spring-boot--rest-apis)                                 
   ⏳   |6      | 12/09/2024          | [Documentação de APIs](#-swagger-e-documentação-de-apis)                          
   ⏳   |7      | 19/09/2024          | [Iniciação do Projeto Prático / Seleção de temas](content/exercises/03.2-proposals.md)      
-  ⏳   |8      | 26/09/2024  *P1     | Avaliação Individual - P1          
+  ⏳   |8      | 26/09/2024   *P1    | Avaliação Individual - P1          
   ⏳   |9      | 03/10/2024          | [Spring Data JPA](#-spring-data-jpa)                            
-  ⏳   |10     | 10/10/2024   **     | [Spring Data JPA](#-spring-data-jpa)
+  ⏳   |10     | 10/10/2024          | [Spring Data JPA](#-spring-data-jpa)
   ⏳   |11     | 17/10/2024   *AT2   | [Spring Data JPA - Herança e Polimorfismo](#-spring-data-jpa)
   ⏳   |12     | 24/10/2024          | Spring Bean Validation, Exceptions e Utilitários / Check-point dos projetos                             
   ⏳   |13     | 31/10/2024          | [Spring Data JPA - Queries](#-spring-data-jpa)
