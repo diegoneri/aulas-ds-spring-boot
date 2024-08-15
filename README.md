@@ -41,8 +41,10 @@
 
 ### 📚 Rest APIs 
 
-- 📖 [REST (_Representational State Transfer_) e RESTFul (_Representational State Transfer_)](content/02.1-rest.md) 
-- 📖 [Modelo de Maturidade de Richardson para APIs](content/02.2-maturity-level.md) 
+- 📖 [REST (_Representational State Transfer_) e RESTFul](content/02.1-rest.md) 🔥
+- 📷 [REST e RESTFul](https://docs.google.com/presentation/d/1PjSWVBGRktm68rdRfdCVRcBo61pyV2k3-GkfSo-q3_8/edit?usp=sharing) 🔥
+- 📷 [REST e HTTP](https://docs.google.com/presentation/d/1Gq0zHvSbxAiENc8HRZ77-mwhAbkYOiiv77eqIucMKvo/edit?usp=sharing) 🔥
+- 📖 [Modelo de Maturidade de Richardson para APIs](content/02.2-maturity-level.md) 🔥
 
 ### 🔢 Spring Boot
 
