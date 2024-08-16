@@ -39,12 +39,12 @@
 - 📖 [Programação para Servidores - Backend](content/01.1-backend.md) ✅
 - 📖 [Serviços Web](content/01.2-web-services.md) ✅
 
-### 📚 Rest APIs 
+### 📚 Rest APIs ✅
 
-- 📖 [REST (_Representational State Transfer_) e RESTFul](content/02.1-rest.md) 🔥
-- 📷 [REST e RESTFul](https://docs.google.com/presentation/d/1PjSWVBGRktm68rdRfdCVRcBo61pyV2k3-GkfSo-q3_8/edit?usp=sharing) 🔥
-- 📷 [REST e HTTP](https://docs.google.com/presentation/d/1Gq0zHvSbxAiENc8HRZ77-mwhAbkYOiiv77eqIucMKvo/edit?usp=sharing) 🔥
-- 📖 [Modelo de Maturidade de Richardson para APIs](content/02.2-maturity-level.md) 🔥
+- 📖 [REST (_Representational State Transfer_) e RESTFul](content/02.1-rest.md) ✅
+- 📷 [REST e RESTFul](https://docs.google.com/presentation/d/1PjSWVBGRktm68rdRfdCVRcBo61pyV2k3-GkfSo-q3_8/edit?usp=sharing) ✅
+- 📷 [REST e HTTP](https://docs.google.com/presentation/d/1Gq0zHvSbxAiENc8HRZ77-mwhAbkYOiiv77eqIucMKvo/edit?usp=sharing) ✅
+- 📖 [Modelo de Maturidade de Richardson para APIs](content/02.2-maturity-level.md) ✅
 
 ### 🔢 Spring Boot
 
@@ -77,10 +77,12 @@
  
 ## 🥋 Exercícios
 
-- [✏ Rest APIs e Arquitetura Restful](content/exercises/02.2-analise-maturidade.md)
-- [👨‍💻👩‍💻🔜👔 Projeto prático](content/exercises/03.2-proposals.md)
-- [✏ Spring Data - Herança e Polimorfismo](content/exercises/04.1-spring-jpa-heranca.md)
-- [✏ Spring Data - Queries](content/exercises/04.2-spring-jpa-queries.md)
+Id  | Tema e Descrição | Data de Entrega | Entregar
+----|------------------|-----------------|------------
+AT1 | [✏ Rest APIs e Arquitetura Restful](content/exercises/02.2-analise-maturidade.md) ✅| 01/09/2024 | [Entregar](https://forms.office.com/r/gdxaq72g6v)
+AT2 | [✏ Spring Data - Herança e Polimorfismo](content/exercises/04.1-spring-jpa-heranca.md) | 17/10/2024 | Entregar
+AT3 | [✏ Spring Data - Queries](content/exercises/04.2-spring-jpa-queries.md) | 07/11/2024 | Entregar
+P2  | [👨‍💻👩‍💻🔜👔 Projeto prático](content/exercises/03.2-proposals.md)| 24/10/2024, 14, 21 e 28/11/2024 | Entregar
 
 ## 🗓 Calendário
 
@@ -89,8 +91,8 @@ IDS-002, primeiro semestre de 2024:
 Status | Semana | Data                | Conteúdo previsto                                                     
 -------|--------| ------------------- | --------------------------------------------------------------------- 
   ✅   | 1     | 08/08/2024          | [Introdução - Tecnologias Web](#-introdu%C3%A7%C3%A3o---tecnologias-web)
-  ⏳   | 2     | 15/08/2024          | [Rest APIs](#-rest-apis)                                 
-  ⏳   |3      | 22/08/2024   *AT1   | [Spring e Spring Boot](#-spring-boot)                                
+  ✅   | 2     | 15/08/2024   *AT1   | [Rest APIs](#-rest-apis)                                 
+  ⏳   |3      | 22/08/2024          | [Spring e Spring Boot](#-spring-boot)                                
   ⏳   |4      | 29/08/2024   **     | [Spring Boot + Rest APIs](#-spring-boot--rest-apis)                          
   ⏳   |--     | _01/09/2024_        | _Prazo final AT1 - Exercício [✏ Rest APIs e Arquitetura Restful](content/exercises/02.2-analise-maturidade.md)_
   ⏳   |5      | 05/09/2024          | [Spring Boot + Rest APIs](#-spring-boot--rest-apis)                                 
@@ -100,10 +102,10 @@ Status | Semana | Data                | Conteúdo previsto
   ⏳   |9      | 03/10/2024          | [Spring Data JPA](#-spring-data-jpa)                            
   ⏳   |10     | 10/10/2024          | [Spring Data JPA](#-spring-data-jpa)
   ⏳   |11     | 17/10/2024   *AT2   | [Spring Data JPA - Herança e Polimorfismo](#-spring-data-jpa)
-  ⏳   |12     | 24/10/2024          | Spring Bean Validation, Exceptions e Utilitários / Check-point dos projetos                             
+  ⏳   |12     | 24/10/2024          | Spring Bean Validation, Exceptions e Utilitários / 1º Check-point dos projetos                             
   ⏳   |13     | 31/10/2024          | [Spring Data JPA - Queries](#-spring-data-jpa)
   ⏳   |14     | 07/11/2024   *AT3   | **Spring Security** (_em breve_)
-  ⏳   |15     | 14/11/2024          | Check-point dos projetos                                           
+  ⏳   |15     | 14/11/2024          | 2º Check-point dos projetos                                           
   ⏳   |16     | 21/11/2024          | Apresentação dos Projetos (Turma 1)             
   ⏳   |17     | 28/11/2024          | Apresentação dos Projetos (Turma 2)                                                  
   ⏳   |18     | 05/12/2024          | Avaliação Individual Substitutiva - P3       
