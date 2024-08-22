@@ -42,34 +42,40 @@
 ### 📚 Rest APIs ✅
 
 - 📖 [REST (_Representational State Transfer_) e RESTFul](content/02.1-rest.md) ✅
-- 📷 [REST e RESTFul](https://docs.google.com/presentation/d/1PjSWVBGRktm68rdRfdCVRcBo61pyV2k3-GkfSo-q3_8/edit?usp=sharing) ✅
-- 📷 [REST e HTTP](https://docs.google.com/presentation/d/1Gq0zHvSbxAiENc8HRZ77-mwhAbkYOiiv77eqIucMKvo/edit?usp=sharing) ✅
+- 📷 [REST e RESTFul](https://docs.google.com/presentation/d/1PjSWVBGRktm68rdRfdCVRcBo61pyV2k3-GkfSo-q3_8) ✅
+- 📷 [REST e HTTP](https://docs.google.com/presentation/d/1Gq0zHvSbxAiENc8HRZ77-mwhAbkYOiiv77eqIucMKvo) ✅
 - 📖 [Modelo de Maturidade de Richardson para APIs](content/02.2-maturity-level.md) ✅
 
 ### 🔢 Spring Boot
 
-- 📷 [Desenvolvimento para Servidores-II - Introdução ao Spring Boot](https://docs.google.com/presentation/d/1RwWEuKu0ZKVAkmaHvXmaijCQZdNVJJzXs3NK1_G20Bk) 
-- 📖 [Criação do ambiente de desenvolvimento - _Spring Tools_](content/03.2-ambiente.md) 
+- 📷 Desenvolvimento para Servidores II - Introdução ao Spring Boot
+  - [_Spring Tools_](https://docs.google.com/presentation/d/1RwWEuKu0ZKVAkmaHvXmaijCQZdNVJJzXs3NK1_G20Bk) 
+  - [_VSCode_](https://docs.google.com/presentation/d/1ca0m66V9DRNab9IPJdSIQFpoF-Rkte68XN7bLTkc_lo) 🔥
+- 📖 Criação do ambiente de desenvolvimento
+  - [_Spring Tools_](content/03.2-ambiente.md) 
+  - [_VSCode_](content/03.2-ambiente-vscode.md) 🔥  
 - 📖 [Ferramentas de build - _Maven, Gradle_](content/03.3-build.md) 
 - 📖 [Spring initializr - _start.spring.io_](content/03.4-initializr.md) 
 
 ### 🔢 Spring Boot + Rest APIs
 
-- 📷 [CRUD no Spring Boot + GIT](https://docs.google.com/presentation/d/1XGFe1ANaLRckr6DWOmV6MGxB188p3-xGaCI0rY4MmXY) 
+- 📷 Aplicação CRUD utilizando Spring Boot
+  - [_Spring Tools_](https://docs.google.com/presentation/d/1XGFe1ANaLRckr6DWOmV6MGxB188p3-xGaCI0rY4MmXY) 
+  - [_VSCode_](https://docs.google.com/presentation/d/1ZUhbhOTDg5gtrH2iZvHVmAsu2_W8oiLwspEd_BnrFHM) 🔥
 
 ### 📚 Documentação de APIs
 
-- 📷 [Spring Doc / Swagger](https://docs.google.com/presentation/d/1t05E6B46_HVLWZTdI1PfvMxMkJ0VxPoenW24R3WqaVU/edit?usp=sharing)
+- 📷 [Spring Doc / Swagger](https://docs.google.com/presentation/d/1t05E6B46_HVLWZTdI1PfvMxMkJ0VxPoenW24R3WqaVU)
 
 ### 👁 Spring Data JPA
 
-- 📷 [Spring Data JPA](https://docs.google.com/presentation/d/1C_V9mEnG3ssFfdYVHBYQAC3zOa_mXBoe_u83vXhV7_s/edit?usp=sharing)
-- 📷 [Spring Data JPA - Herança e Polimorfismo](https://docs.google.com/presentation/d/16DJQrhkb2tA5nBJI9vSWTgtP0Pru6f7UmEN_sHoXpQs/edit?usp=sharing)
-- 📷 [Spring Data JPA - Queries](https://docs.google.com/presentation/d/16vCj8sGp4lcraBOB0IyEgVrAJ-3XuynxOzRpW1nzDXc/edit?usp=sharing)
+- 📷 [Spring Data JPA](https://docs.google.com/presentation/d/1C_V9mEnG3ssFfdYVHBYQAC3zOa_mXBoe_u83vXhV7_s)
+- 📷 [Spring Data JPA - Herança e Polimorfismo](https://docs.google.com/presentation/d/16DJQrhkb2tA5nBJI9vSWTgtP0Pru6f7UmEN_sHoXpQs)
+- 📷 [Spring Data JPA - Queries](https://docs.google.com/presentation/d/16vCj8sGp4lcraBOB0IyEgVrAJ-3XuynxOzRpW1nzDXc)
 
 ### 👁 Spring Utils
 
-- 📷 [Boas práticas com Spring](https://docs.google.com/presentation/d/12QH4_qgZ3BdSfE3vBVfK6ahZ-uk65obHpd5sYfR1tgc/edit?usp=sharing)
+- 📷 [Boas práticas com Spring](https://docs.google.com/presentation/d/12QH4_qgZ3BdSfE3vBVfK6ahZ-uk65obHpd5sYfR1tgc)
   
 ### 👁 Spring Security
 
