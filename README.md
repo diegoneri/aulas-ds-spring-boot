@@ -57,15 +57,15 @@
 - 📖 [Ferramentas de build - _Maven, Gradle_](content/03.3-build.md) ✅
 - 📖 [Spring initializr - _start.spring.io_](content/03.4-initializr.md) ✅
 
-### 🔢 Spring Boot + Rest APIs
+### 🔢 Spring Boot + Rest APIs ✅
 
-- 📷 Aplicação CRUD utilizando Spring Boot
-  - [_Spring Tools_](https://docs.google.com/presentation/d/1XGFe1ANaLRckr6DWOmV6MGxB188p3-xGaCI0rY4MmXY) 
-  - [_VSCode_](https://docs.google.com/presentation/d/1ZUhbhOTDg5gtrH2iZvHVmAsu2_W8oiLwspEd_BnrFHM) 🔥
+- 📷 Aplicação CRUD utilizando Spring Boot ✅
+  - [_Spring Tools_](https://docs.google.com/presentation/d/1XGFe1ANaLRckr6DWOmV6MGxB188p3-xGaCI0rY4MmXY) ✅
+  - [_VSCode_](https://docs.google.com/presentation/d/1ZUhbhOTDg5gtrH2iZvHVmAsu2_W8oiLwspEd_BnrFHM) ✅
 
 ### 📚 Documentação de APIs
 
-- 📷 [Spring Doc / Swagger](https://docs.google.com/presentation/d/1t05E6B46_HVLWZTdI1PfvMxMkJ0VxPoenW24R3WqaVU)
+- 📷 [Spring Doc / Swagger](https://docs.google.com/presentation/d/1t05E6B46_HVLWZTdI1PfvMxMkJ0VxPoenW24R3WqaVU) 🔥
 
 ### 👁 Spring Data JPA
 
@@ -98,10 +98,10 @@ Status | Semana | Data                | Conteúdo previsto
 -------|--------| ------------------- | --------------------------------------------------------------------- 
   ✅   | 1     | 08/08/2024          | [Introdução - Tecnologias Web](#-introdu%C3%A7%C3%A3o---tecnologias-web)
   ✅   | 2     | 15/08/2024   *AT1   | [Rest APIs](#-rest-apis)                                 
-  ⏳   |3      | 22/08/2024          | [Spring e Spring Boot](#-spring-boot)                                
-  ⏳   |4      | 29/08/2024   **     | [Spring Boot + Rest APIs](#-spring-boot--rest-apis)                          
-  ⏳   |--     | _01/09/2024_        | _Prazo final AT1 - Exercício [✏ Rest APIs e Arquitetura Restful](content/exercises/02.2-analise-maturidade.md)_
-  ⏳   |5      | 05/09/2024          | [Spring Boot + Rest APIs](#-spring-boot--rest-apis)                                 
+  ✅   |3      | 22/08/2024          | [Spring e Spring Boot](#-spring-boot)                                
+  ✅   |4      | 29/08/2024   **     | [Spring Boot + Rest APIs](#-spring-boot--rest-apis)                          
+  ✅   |--     | _01/09/2024_        | _Prazo final AT1 - Exercício [✏ Rest APIs e Arquitetura Restful](content/exercises/02.2-analise-maturidade.md)_
+  ✅   |5      | 05/09/2024          | [Spring Boot + Rest APIs](#-spring-boot--rest-apis)                                 
   ⏳   |6      | 12/09/2024          | [Documentação de APIs](#-swagger-e-documentação-de-apis)                          
   ⏳   |7      | 19/09/2024          | [Iniciação do Projeto Prático / Seleção de temas](content/exercises/03.2-proposals.md)      
   ⏳   |8      | 26/09/2024   *P1    | Avaliação Individual - P1          
