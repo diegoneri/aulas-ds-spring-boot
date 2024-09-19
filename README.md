@@ -102,16 +102,16 @@ Status | Semana | Data                | Conteúdo previsto
   ✅   |4      | 29/08/2024   **     | [Spring Boot + Rest APIs](#-spring-boot--rest-apis)                          
   ✅   |--     | _01/09/2024_        | _Prazo final AT1 - Exercício [✏ Rest APIs e Arquitetura Restful](content/exercises/02.2-analise-maturidade.md)_
   ✅   |5      | 05/09/2024          | [Spring Boot + Rest APIs](#-spring-boot--rest-apis)                                 
-  ⏳   |6      | 12/09/2024          | [Documentação de APIs](#-swagger-e-documentação-de-apis)                          
-  ⏳   |7      | 19/09/2024          | [Iniciação do Projeto Prático / Seleção de temas](content/exercises/03.2-proposals.md)      
+  ✅   |6      | 12/09/2024          | ~[Documentação de APIs](#-swagger-e-documentação-de-apis)~ [Spring Boot + Rest APIs](#-spring-boot--rest-apis)                          
+  ⏳   |7      | 19/09/2024          | Revisão de conteúdo e [Iniciação do Projeto Prático / Seleção de temas](content/exercises/03.2-proposals.md)      
   ⏳   |8      | 26/09/2024   *P1    | Avaliação Individual - P1          
-  ⏳   |9      | 03/10/2024          | [Spring Data JPA](#-spring-data-jpa)                            
+  ⏳   |9      | 03/10/2024          | [Documentação de APIs](#-swagger-e-documentação-de-apis) / [Spring Data JPA](#-spring-data-jpa)                            
   ⏳   |10     | 10/10/2024          | [Spring Data JPA](#-spring-data-jpa)
-  ⏳   |11     | 17/10/2024   *AT2   | [Spring Data JPA - Herança e Polimorfismo](#-spring-data-jpa)
-  ⏳   |12     | 24/10/2024          | Spring Bean Validation, Exceptions e Utilitários / 1º Check-point dos projetos                             
+  ⏳   |11     | 17/10/2024   *AT2   | [Spring Data JPA - Herança e Polimorfismo](#-spring-data-jpa) / 1º Check-point dos projetos (_Sprint 01 - Review_)
+  ⏳   |12     | 24/10/2024          | Spring Bean Validation, Exceptions e Utilitários                          
   ⏳   |13     | 31/10/2024          | [Spring Data JPA - Queries](#-spring-data-jpa)
-  ⏳   |14     | 07/11/2024   *AT3   | **Spring Security** (_em breve_)
-  ⏳   |15     | 14/11/2024          | 2º Check-point dos projetos                                           
+  ⏳   |14     | 07/11/2024   *AT3   | [Spring Data JPA - Queries](#-spring-data-jpa) / 2º Check-point dos projetos (_Sprint 02 - Review_)
+  ⏳   |15     | 14/11/2024          | **Spring Security** (_em breve_)                                           
   ⏳   |16     | 21/11/2024          | Apresentação dos Projetos (Turma 1)             
   ⏳   |17     | 28/11/2024          | Apresentação dos Projetos (Turma 2)                                                  
   ⏳   |18     | 05/12/2024          | Avaliação Individual Substitutiva - P3       
