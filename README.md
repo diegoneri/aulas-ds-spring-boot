@@ -88,7 +88,7 @@ Id  | Tema e Descrição | Data de Entrega | Entregar
 AT1 | [✏ Rest APIs e Arquitetura Restful](content/exercises/02.2-analise-maturidade.md) ✅| 01/09/2024 | [Entregar](https://forms.office.com/r/gdxaq72g6v)
 AT2 | [✏ Spring Data - Herança e Polimorfismo](content/exercises/04.1-spring-jpa-heranca.md) | 17/10/2024 | Entregar
 AT3 | [✏ Spring Data - Queries](content/exercises/04.2-spring-jpa-queries.md) | 07/11/2024 | Entregar
-P2  | [👨‍💻👩‍💻🔜👔 Projeto prático](content/exercises/03.2-proposals.md)| 24/10/2024, 14, 21 e 28/11/2024 | Entregar
+P2  | [👨‍💻👩‍💻👔 Projeto prático](content/exercises/03.1-projeto-pratico.md)| 24/10/2024, 14, 21 e 28/11/2024 | Entregar
 
 ## 🗓 Calendário
 
@@ -105,7 +105,7 @@ Status | Semana | Data                | Conteúdo previsto
   ✅   |6      | 12/09/2024          | ~[Documentação de APIs](#-swagger-e-documentação-de-apis)~ [Spring Boot + Rest APIs](#-spring-boot--rest-apis)                          
   ✅   |7      | 19/09/2024          | Revisão de conteúdo e [Iniciação do Projeto Prático / Seleção de temas](content/exercises/03.2-proposals.md)      
   ✅   |8      | 26/09/2024   *P1    | Avaliação Individual - P1          
-  ⏳   |9      | 03/10/2024          | Organização dos Projetos / [Documentação de APIs](#-swagger-e-documentação-de-apis) / [Spring Data JPA](#-spring-data-jpa)                            
+  ⏳   |9      | 03/10/2024          | [Organização dos Projetos](content/exercises/03.1-projeto-pratico.md) / [Documentação de APIs](#-swagger-e-documentação-de-apis) / [Spring Data JPA](#-spring-data-jpa)                            
   ⏳   |10     | 10/10/2024          | [Spring Data JPA](#-spring-data-jpa)
   ⏳   |11     | 17/10/2024   *AT2   | [Spring Data JPA - Herança e Polimorfismo](#-spring-data-jpa) / 1º Check-point dos projetos (_Sprint 01 - Review_)
   ⏳   |12     | 24/10/2024          | Spring Bean Validation, Exceptions e Utilitários                          
