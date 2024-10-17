@@ -90,8 +90,8 @@
 Id  | Tema e Descrição | Data de Entrega | Entregar
 ----|------------------|-----------------|------------
 AT1 | [✏ Rest APIs e Arquitetura Restful](content/exercises/02.2-analise-maturidade.md) ✅| 01/09/2024 | [Entregar](https://forms.office.com/r/gdxaq72g6v)
-AT2 | [✏ Sprint 01 - Projeto prático] | 17/10/2024 | Entregar
-AT3 | [✏ Sprint 02 - Projeto prático] | 14/11/2024 | Entregar
+AT2 | [✏ Sprint 01 - Projeto prático] | 24/10/2024 | Entrega em aula
+AT3 | [✏ Sprint 02 - Projeto prático] | 14/11/2024 | Entrega em aula
 P2  | [👨‍💻👩‍💻👔 Projeto prático](content/exercises/03.1-projeto-pratico.md)| 24/10/2024, 14, 21 e 28/11/2024 | Entregar
 
 ## 🗓 Calendário
