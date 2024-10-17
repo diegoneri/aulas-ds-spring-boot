@@ -69,10 +69,12 @@
 
 ### 👁 Spring Data JPA
 
-- 📷 Spring Data JPA 🔥
-   - [Postgres](https://docs.google.com/presentation/d/1C_V9mEnG3ssFfdYVHBYQAC3zOa_mXBoe_u83vXhV7_s) 🔥
-   - [MySQL](https://docs.google.com/presentation/d/1Y_zQP06PaXMJYY1S5HUCybvByEzcHw6vXZI5SmlkzWA) 🔥
-- 📷 [Spring Data JPA - Herança e Polimorfismo](https://docs.google.com/presentation/d/16DJQrhkb2tA5nBJI9vSWTgtP0Pru6f7UmEN_sHoXpQs)
+- 📷 Spring Data JPA ✅
+   - [Postgres](https://docs.google.com/presentation/d/1C_V9mEnG3ssFfdYVHBYQAC3zOa_mXBoe_u83vXhV7_s) ✅
+   - [MySQL](https://docs.google.com/presentation/d/1Y_zQP06PaXMJYY1S5HUCybvByEzcHw6vXZI5SmlkzWA) ✅
+- 📷 [Spring Data JPA - Herança e Polimorfismo] 🔥
+   - [Postgres](https://docs.google.com/presentation/d/16DJQrhkb2tA5nBJI9vSWTgtP0Pru6f7UmEN_sHoXpQs) 🔥
+   - [MySQL](https://docs.google.com/presentation/d/11g26sX5Uy13Wx1NM_pVJ-ddZZofEMjIT9WPphDUWD-c) 🔥
 - 📷 [Spring Data JPA - Queries](https://docs.google.com/presentation/d/16vCj8sGp4lcraBOB0IyEgVrAJ-3XuynxOzRpW1nzDXc)
 
 ### 👁 Spring Utils
@@ -108,9 +110,9 @@ Status | Semana | Data                | Conteúdo previsto
   ✅   |7      | 19/09/2024          | Revisão de conteúdo e [Iniciação do Projeto Prático / Seleção de temas](content/exercises/03.2-proposals.md)      
   ✅   |8      | 26/09/2024   *P1    | Avaliação Individual - P1          
   ✅   |9      | 03/10/2024          | [Organização dos Projetos](content/exercises/03.1-projeto-pratico.md) / [Documentação de APIs](#-swagger-e-documentação-de-apis) / [Spring Data JPA](#-spring-data-jpa)                            
-  🔥   |10     | 10/10/2024          | [Spring Data JPA](#-spring-data-jpa)
-  ⏳   |11     | 17/10/2024   *AT2   | [Spring Data JPA - Herança e Polimorfismo](#-spring-data-jpa) / 1º Check-point dos projetos (_Sprint 01 - Review_)
-  ⏳   |12     | 24/10/2024          | Spring Bean Validation, Exceptions e Utilitários                          
+  ✅   |10     | 10/10/2024          | [Spring Data JPA](#-spring-data-jpa)
+  🔥   |11     | 17/10/2024          | [Spring Data JPA - Herança e Polimorfismo](#-spring-data-jpa)
+  ⏳   |12     | 24/10/2024   *AT2   | Spring Bean Validation, Exceptions e Utilitários / 1º Check-point dos projetos (_Sprint 01 - Review_)                          
   ⏳   |13     | 31/10/2024          | [Spring Data JPA - Queries](#-spring-data-jpa)
   ⏳   |14     | 07/11/2024   *AT3   | [Spring Data JPA - Queries](#-spring-data-jpa) / 2º Check-point dos projetos (_Sprint 02 - Review_)
   ⏳   |15     | 14/11/2024          | **Spring Security** (_em breve_)                                           
