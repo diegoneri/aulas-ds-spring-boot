@@ -111,11 +111,11 @@ Status | Semana | Data                | Conteúdo previsto
   ✅   |8      | 26/09/2024   *P1    | Avaliação Individual - P1          
   ✅   |9      | 03/10/2024          | [Organização dos Projetos](content/exercises/03.1-projeto-pratico.md) / [Documentação de APIs](#-swagger-e-documentação-de-apis) / [Spring Data JPA](#-spring-data-jpa)                            
   ✅   |10     | 10/10/2024          | [Spring Data JPA](#-spring-data-jpa)
-  🔥   |11     | 17/10/2024          | [Spring Data JPA - Herança e Polimorfismo](#-spring-data-jpa)
-  ⏳   |12     | 24/10/2024   *AT2   | Spring Bean Validation, Exceptions e Utilitários / 1º Check-point dos projetos (_Sprint 01 - Review_)                          
-  ⏳   |13     | 31/10/2024          | [Spring Data JPA - Queries](#-spring-data-jpa)
+  ✅   |11     | 17/10/2024          | [Spring Data JPA - Herança e Polimorfismo](#-spring-data-jpa)
+  🔥   |12     | 24/10/2024   *AT2   | 1º Check-point dos projetos (_Sprint 01 - Review_)                          
+  ⏳   |13     | 31/10/2024          | Spring Bean Validation, Exceptions e Utilitários
   ⏳   |14     | 07/11/2024   *AT3   | [Spring Data JPA - Queries](#-spring-data-jpa) / 2º Check-point dos projetos (_Sprint 02 - Review_)
-  ⏳   |15     | 14/11/2024          | **Spring Security** (_em breve_)                                           
+  ⏳   |15     | 14/11/2024          | [Spring Data JPA - Queries](#-spring-data-jpa)                                          
   ⏳   |16     | 21/11/2024          | Apresentação dos Projetos (Turma 1)             
   ⏳   |17     | 28/11/2024          | Apresentação dos Projetos (Turma 2)                                                  
   ⏳   |18     | 05/12/2024          | Avaliação Individual Substitutiva - P3       
