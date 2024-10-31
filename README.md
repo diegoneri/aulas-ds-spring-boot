@@ -72,14 +72,14 @@
 - 📷 Spring Data JPA ✅
    - [Postgres](https://docs.google.com/presentation/d/1C_V9mEnG3ssFfdYVHBYQAC3zOa_mXBoe_u83vXhV7_s) ✅
    - [MySQL](https://docs.google.com/presentation/d/1Y_zQP06PaXMJYY1S5HUCybvByEzcHw6vXZI5SmlkzWA) ✅
-- 📷 [Spring Data JPA - Herança e Polimorfismo] 🔥
-   - [Postgres](https://docs.google.com/presentation/d/16DJQrhkb2tA5nBJI9vSWTgtP0Pru6f7UmEN_sHoXpQs) 🔥
-   - [MySQL](https://docs.google.com/presentation/d/11g26sX5Uy13Wx1NM_pVJ-ddZZofEMjIT9WPphDUWD-c) 🔥
+- 📷 [Spring Data JPA - Herança e Polimorfismo] ✅
+   - [Postgres](https://docs.google.com/presentation/d/16DJQrhkb2tA5nBJI9vSWTgtP0Pru6f7UmEN_sHoXpQs) ✅
+   - [MySQL](https://docs.google.com/presentation/d/11g26sX5Uy13Wx1NM_pVJ-ddZZofEMjIT9WPphDUWD-c) ✅
 - 📷 [Spring Data JPA - Queries](https://docs.google.com/presentation/d/16vCj8sGp4lcraBOB0IyEgVrAJ-3XuynxOzRpW1nzDXc)
 
-### 👁 Spring Utils
+### 👁 Spring Utils 🔥
 
-- 📷 [Boas práticas com Spring](https://docs.google.com/presentation/d/12QH4_qgZ3BdSfE3vBVfK6ahZ-uk65obHpd5sYfR1tgc)
+- 📷 [Boas práticas com Spring](https://docs.google.com/presentation/d/12QH4_qgZ3BdSfE3vBVfK6ahZ-uk65obHpd5sYfR1tgc) 🔥
   
 ### 👁 Spring Security
 
@@ -100,8 +100,8 @@ IDS-002, primeiro semestre de 2024:
 
 Status | Semana | Data                | Conteúdo previsto                                                     
 -------|--------| ------------------- | --------------------------------------------------------------------- 
-  ✅   | 1     | 08/08/2024          | [Introdução - Tecnologias Web](#-introdu%C3%A7%C3%A3o---tecnologias-web)
-  ✅   | 2     | 15/08/2024   *AT1   | [Rest APIs](#-rest-apis)                                 
+  ✅   |1      | 08/08/2024          | [Introdução - Tecnologias Web](#-introdu%C3%A7%C3%A3o---tecnologias-web)
+  ✅   |2      | 15/08/2024   *AT1   | [Rest APIs](#-rest-apis)                                 
   ✅   |3      | 22/08/2024          | [Spring e Spring Boot](#-spring-boot)                                
   ✅   |4      | 29/08/2024   **     | [Spring Boot + Rest APIs](#-spring-boot--rest-apis)                          
   ✅   |--     | _01/09/2024_        | _Prazo final AT1 - Exercício [✏ Rest APIs e Arquitetura Restful](content/exercises/02.2-analise-maturidade.md)_
@@ -112,10 +112,10 @@ Status | Semana | Data                | Conteúdo previsto
   ✅   |9      | 03/10/2024          | [Organização dos Projetos](content/exercises/03.1-projeto-pratico.md) / [Documentação de APIs](#-swagger-e-documentação-de-apis) / [Spring Data JPA](#-spring-data-jpa)                            
   ✅   |10     | 10/10/2024          | [Spring Data JPA](#-spring-data-jpa)
   ✅   |11     | 17/10/2024          | [Spring Data JPA - Herança e Polimorfismo](#-spring-data-jpa)
-  🔥   |12     | 24/10/2024   *AT2   | 1º Check-point dos projetos (_Sprint 01 - Review_)                          
-  ⏳   |13     | 31/10/2024          | Spring Bean Validation, Exceptions e Utilitários
-  ⏳   |14     | 07/11/2024   *AT3   | [Spring Data JPA - Queries](#-spring-data-jpa) / 2º Check-point dos projetos (_Sprint 02 - Review_)
-  ⏳   |15     | 14/11/2024          | [Spring Data JPA - Queries](#-spring-data-jpa)                                          
+  ✅   |12     | 24/10/2024   *AT2   | 1º Check-point dos projetos (_Sprint 01 - Review_)                          
+  🔥   |13     | 31/10/2024          | Spring Bean Validation, Exceptions e Utilitários
+  ⏳   |14     | 07/11/2024          | [Spring Data JPA - Queries](#-spring-data-jpa)
+  ⏳   |15     | 14/11/2024   *AT3   | [Spring Data JPA - Queries](#-spring-data-jpa) / 2º Check-point dos projetos (_Sprint 02 - Review_)                                         
   ⏳   |16     | 21/11/2024          | Apresentação dos Projetos (Turma 1)             
   ⏳   |17     | 28/11/2024          | Apresentação dos Projetos (Turma 2)                                                  
   ⏳   |18     | 05/12/2024          | Avaliação Individual Substitutiva - P3       
