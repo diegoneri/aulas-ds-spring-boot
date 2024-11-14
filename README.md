@@ -77,9 +77,9 @@
    - [MySQL](https://docs.google.com/presentation/d/11g26sX5Uy13Wx1NM_pVJ-ddZZofEMjIT9WPphDUWD-c) ✅
 - 📷 [Spring Data JPA - Queries](https://docs.google.com/presentation/d/16vCj8sGp4lcraBOB0IyEgVrAJ-3XuynxOzRpW1nzDXc)
 
-### 👁 Spring Utils 🔥
+### 👁 Spring Utils ✅
 
-- 📷 [Boas práticas com Spring](https://docs.google.com/presentation/d/12QH4_qgZ3BdSfE3vBVfK6ahZ-uk65obHpd5sYfR1tgc) 🔥
+- 📷 [Boas práticas com Spring](https://docs.google.com/presentation/d/12QH4_qgZ3BdSfE3vBVfK6ahZ-uk65obHpd5sYfR1tgc) ✅
   
 ### 👁 Spring Security
 
@@ -90,9 +90,9 @@
 Id  | Tema e Descrição | Data de Entrega | Entregar
 ----|------------------|-----------------|------------
 AT1 | [✏ Rest APIs e Arquitetura Restful](content/exercises/02.2-analise-maturidade.md) ✅| 01/09/2024 | [Entregar](https://forms.office.com/r/gdxaq72g6v)
-AT2 | [✏ Sprint 01 - Projeto prático] | 24/10/2024 | Entrega em aula
-AT3 | [✏ Sprint 02 - Projeto prático] | 14/11/2024 | Entrega em aula
-P2  | [👨‍💻👩‍💻👔 Projeto prático](content/exercises/03.1-projeto-pratico.md)| 24/10/2024, 14, 21 e 28/11/2024 | Entregar
+AT2 | [✏ Sprint 01 - Projeto prático] | 24/10/2024 | Entrega em aula ✅
+AT3 | [✏ Sprint 02 - Projeto prático] | 14/11/2024 | Entrega em aula ✅
+P2  | [👨‍💻👩‍💻👔 Projeto prático](content/exercises/03.1-projeto-pratico.md)| 24/10/2024, 14, 21 e 28/11/2024 | [Entregar](https://forms.office.com/r/vgYn3icYJV) 🔥
 
 ## 🗓 Calendário
 
@@ -113,9 +113,9 @@ Status | Semana | Data                | Conteúdo previsto
   ✅   |10     | 10/10/2024          | [Spring Data JPA](#-spring-data-jpa)
   ✅   |11     | 17/10/2024          | [Spring Data JPA - Herança e Polimorfismo](#-spring-data-jpa)
   ✅   |12     | 24/10/2024   *AT2   | 1º Check-point dos projetos (_Sprint 01 - Review_)                          
-  🔥   |13     | 31/10/2024          | Spring Bean Validation, Exceptions e Utilitários
-  ⏳   |14     | 07/11/2024          | [Spring Data JPA - Queries](#-spring-data-jpa)
-  ⏳   |15     | 14/11/2024   *AT3   | [Spring Data JPA - Queries](#-spring-data-jpa) / 2º Check-point dos projetos (_Sprint 02 - Review_)                                         
+  ✅   |13     | 31/10/2024          | Spring Bean Validation, Exceptions e Utilitários
+  ✅   |14     | 07/11/2024          | [Spring Data JPA - Queries](#-spring-data-jpa)
+  🔥   |15     | 14/11/2024   *AT3   | [Spring Data JPA - Queries](#-spring-data-jpa) / 2º Check-point dos projetos (_Sprint 02 - Review_)                                         
   ⏳   |16     | 21/11/2024          | Apresentação dos Projetos (Turma 1)             
   ⏳   |17     | 28/11/2024          | Apresentação dos Projetos (Turma 2)                                                  
   ⏳   |18     | 05/12/2024          | Avaliação Individual Substitutiva - P3       
