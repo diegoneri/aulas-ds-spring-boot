@@ -94,6 +94,20 @@ AT2 | [✏ Sprint 01 - Projeto prático] | 24/10/2024 | Entrega em aula ✅
 AT3 | [✏ Sprint 02 - Projeto prático] | 14/11/2024 | Entrega em aula ✅
 P2  | [👨‍💻👩‍💻👔 Projeto prático](content/exercises/03.1-projeto-pratico.md)| 24/10/2024, 14, 21 e 28/11/2024 | [Entregar](https://forms.office.com/r/vgYn3icYJV) 🔥
 
+### Apresentações - Datas e horários
+
+| Data    | Horário | Grupo | Integrantes                              |
+|---------|---------|-------|------------------------------------------|
+| 21/11   | 19h30   | 4     | Sergio, Thalles, Rodrigo                 |
+| 21/11   | 20h00   | 7     | Bruno Silva                              |
+| 21/11   | 20h30   | 1     | Oziel, Nickolas                          |
+| 21/11   | 21h00   | 9     | Valéria, Gabriel K., Luan, Igor          |
+| 21/11   | 21h30   | 3     | Mateus S., Marina, Danrley, Bianca       |
+| 28/11   | 19h30   | 6     | José, Lucas Amaral, Gabriel P.           |
+| 28/11   | 20h00   | 5     | Matheus G.                               |
+| 28/11   | 20h30   | 2     | João, Maria F., Sérgio G.                |
+| 28/11   | 21h00   | 8     | Luiz, Gabriela                           |
+
 ## 🗓 Calendário
 
 IDS-002, primeiro semestre de 2024:
