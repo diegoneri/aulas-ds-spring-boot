@@ -32,115 +32,98 @@
 
 **Legenda:** 📷 Slides \| 📺 Vídeo-aula no YouTube \| 📖 Material em texto e imagens \|  ✅ já estudado neste semestre \| 🔥 novo
 
-### 📚 Introdução ✅
+### 📚 Introdução 
 
-- 📷 [Programação para Web](https://docs.google.com/presentation/d/1W1dcLeHVS2Ln7MG7S5A7SaTsHD0iQBA5OxIyJTGeKLc/edit "Slides - Aulas Programação Web") - [Prof. Ermogenes Palacio](<https://github.com/ermogenes> "Github do Professor Ermogenes Palacio") ✅
-- 📷 [Desenvolvimento para Servidores-II - Tecnologias de Programação Web](https://docs.google.com/presentation/d/1npVNbaS8hyEi5x5X5aXqxX37rppnTjkYakQRUSlRHik) ✅
-- 📖 [Programação para Servidores - Backend](content/01.1-backend.md) ✅
-- 📖 [Serviços Web](content/01.2-web-services.md) ✅
+- 📷 [Programação para Web](https://docs.google.com/presentation/d/1W1dcLeHVS2Ln7MG7S5A7SaTsHD0iQBA5OxIyJTGeKLc/edit "Slides - Aulas Programação Web") - [Prof. Ermogenes Palacio](<https://github.com/ermogenes> "Github do Professor Ermogenes Palacio") 
+- 📷 [Desenvolvimento para Servidores-II - Tecnologias de Programação Web](https://docs.google.com/presentation/d/1npVNbaS8hyEi5x5X5aXqxX37rppnTjkYakQRUSlRHik) 
+- 📖 [Programação para Servidores - Backend](content/01.1-backend.md) 
+- 📖 [Serviços Web](content/01.2-web-services.md) 
 
-### 📚 Rest APIs ✅
+### 📚 Rest APIs 
 
-- 📖 [REST (_Representational State Transfer_) e RESTFul](content/02.1-rest.md) ✅
-- 📷 [REST e RESTFul](https://docs.google.com/presentation/d/1PjSWVBGRktm68rdRfdCVRcBo61pyV2k3-GkfSo-q3_8) ✅
-- 📷 [REST e HTTP](https://docs.google.com/presentation/d/1Gq0zHvSbxAiENc8HRZ77-mwhAbkYOiiv77eqIucMKvo) ✅
-- 📖 [Modelo de Maturidade de Richardson para APIs](content/02.2-maturity-level.md) ✅
+- 📖 [REST (_Representational State Transfer_) e RESTFul](content/02.1-rest.md) 
+- 📷 [REST e RESTFul](https://docs.google.com/presentation/d/1PjSWVBGRktm68rdRfdCVRcBo61pyV2k3-GkfSo-q3_8) 
+- 📷 [REST e HTTP](https://docs.google.com/presentation/d/1Gq0zHvSbxAiENc8HRZ77-mwhAbkYOiiv77eqIucMKvo) 
+- 📖 [Modelo de Maturidade de Richardson para APIs](content/02.2-maturity-level.md) 
 
-### 🔢 Spring Boot ✅
+### 🔢 Spring Boot 
 
-- 📷 Desenvolvimento para Servidores II - Introdução ao Spring Boot ✅
-  - [_Spring Tools_](https://docs.google.com/presentation/d/1RwWEuKu0ZKVAkmaHvXmaijCQZdNVJJzXs3NK1_G20Bk) ✅
-  - [_VSCode_](https://docs.google.com/presentation/d/1ca0m66V9DRNab9IPJdSIQFpoF-Rkte68XN7bLTkc_lo) ✅
-- 📖 Criação do ambiente de desenvolvimento ✅
-  - [_Spring Tools_](content/03.2-ambiente.md) ✅
-  - [_VSCode_](content/03.2-ambiente-vscode.md) ✅  
-- 📖 [Ferramentas de build - _Maven, Gradle_](content/03.3-build.md) ✅
-- 📖 [Spring initializr - _start.spring.io_](content/03.4-initializr.md) ✅
+- 📷 Desenvolvimento para Servidores II - Introdução ao Spring Boot 
+  - [_Spring Tools_](https://docs.google.com/presentation/d/1RwWEuKu0ZKVAkmaHvXmaijCQZdNVJJzXs3NK1_G20Bk) 
+  - [_VSCode_](https://docs.google.com/presentation/d/1ca0m66V9DRNab9IPJdSIQFpoF-Rkte68XN7bLTkc_lo) 
+- 📖 Criação do ambiente de desenvolvimento 
+  - [_Spring Tools_](content/03.2-ambiente.md) 
+  - [_VSCode_](content/03.2-ambiente-vscode.md) 
+- 📖 [Ferramentas de build - _Maven, Gradle_](content/03.3-build.md) 
+- 📖 [Spring initializr - _start.spring.io_](content/03.4-initializr.md) 
 
-### 🔢 Spring Boot + Rest APIs ✅
+### 🔢 Spring Boot + Rest APIs 
 
-- 📷 Aplicação CRUD utilizando Spring Boot ✅
-  - [_Spring Tools_](https://docs.google.com/presentation/d/1XGFe1ANaLRckr6DWOmV6MGxB188p3-xGaCI0rY4MmXY) ✅
-  - [_VSCode_](https://docs.google.com/presentation/d/1ZUhbhOTDg5gtrH2iZvHVmAsu2_W8oiLwspEd_BnrFHM) ✅
+- 📷 Aplicação CRUD utilizando Spring Boot 
+  - [_Spring Tools_](https://docs.google.com/presentation/d/1XGFe1ANaLRckr6DWOmV6MGxB188p3-xGaCI0rY4MmXY) 
+  - [_VSCode_](https://docs.google.com/presentation/d/1ZUhbhOTDg5gtrH2iZvHVmAsu2_W8oiLwspEd_BnrFHM) 
 
 ### 📚 Documentação de APIs
 
-- 📷 [Spring Doc / Swagger](https://docs.google.com/presentation/d/1t05E6B46_HVLWZTdI1PfvMxMkJ0VxPoenW24R3WqaVU) ✅
+- 📷 [Spring Doc / Swagger](https://docs.google.com/presentation/d/1t05E6B46_HVLWZTdI1PfvMxMkJ0VxPoenW24R3WqaVU) 
 
 ### 👁 Spring Data JPA
 
-- 📷 Spring Data JPA ✅
-   - [Postgres](https://docs.google.com/presentation/d/1C_V9mEnG3ssFfdYVHBYQAC3zOa_mXBoe_u83vXhV7_s) ✅
-   - [MySQL](https://docs.google.com/presentation/d/1Y_zQP06PaXMJYY1S5HUCybvByEzcHw6vXZI5SmlkzWA) ✅
-- 📷 [Spring Data JPA - Herança e Polimorfismo] ✅
-   - [Postgres](https://docs.google.com/presentation/d/16DJQrhkb2tA5nBJI9vSWTgtP0Pru6f7UmEN_sHoXpQs) ✅
-   - [MySQL](https://docs.google.com/presentation/d/11g26sX5Uy13Wx1NM_pVJ-ddZZofEMjIT9WPphDUWD-c) ✅
+- 📷 Spring Data JPA 
+   - [Postgres](https://docs.google.com/presentation/d/1C_V9mEnG3ssFfdYVHBYQAC3zOa_mXBoe_u83vXhV7_s) 
+   - [MySQL](https://docs.google.com/presentation/d/1Y_zQP06PaXMJYY1S5HUCybvByEzcHw6vXZI5SmlkzWA) 
+- 📷 [Spring Data JPA - Herança e Polimorfismo] 
+   - [Postgres](https://docs.google.com/presentation/d/16DJQrhkb2tA5nBJI9vSWTgtP0Pru6f7UmEN_sHoXpQs) 
+   - [MySQL](https://docs.google.com/presentation/d/11g26sX5Uy13Wx1NM_pVJ-ddZZofEMjIT9WPphDUWD-c) 
 - 📷 [Spring Data JPA - Queries](https://docs.google.com/presentation/d/16vCj8sGp4lcraBOB0IyEgVrAJ-3XuynxOzRpW1nzDXc)
 
-### 👁 Spring Utils ✅
+### 👁 Spring Utils 
 
-- 📷 [Boas práticas com Spring](https://docs.google.com/presentation/d/12QH4_qgZ3BdSfE3vBVfK6ahZ-uk65obHpd5sYfR1tgc) ✅
+- 📷 [Boas práticas com Spring](https://docs.google.com/presentation/d/12QH4_qgZ3BdSfE3vBVfK6ahZ-uk65obHpd5sYfR1tgc) 
   
-### 👁 Spring Security
 
-- 📷 [Spring Security] (_em breve_)
- 
 ## 🥋 Exercícios
 
 Id  | Tema e Descrição | Data de Entrega | Entregar
 ----|------------------|-----------------|------------
-AT1 | [✏ Rest APIs e Arquitetura Restful](content/exercises/02.2-analise-maturidade.md) ✅| 01/09/2024 | [Entregar](https://forms.office.com/r/gdxaq72g6v)
-AT2 | [✏ Sprint 01 - Projeto prático] | 24/10/2024 | Entrega em aula ✅
-AT3 | [✏ Sprint 02 - Projeto prático] | 14/11/2024 | Entrega em aula ✅
-P2  | [👨‍💻👩‍💻👔 Projeto prático](content/exercises/03.1-projeto-pratico.md)| 24/10/2024, 14, 21 e 28/11/2024 | [Entregar](https://forms.office.com/r/vgYn3icYJV) 🔥
+AT1 | [✏ Rest APIs e Arquitetura Restful](content/exercises/02.2-analise-maturidade.md) | TBD | [Entregar]
+AT2 | [✏ Sprint 01 - Projeto prático] | TBD | Entrega em aula 
+AT3 | [✏ Sprint 02 - Projeto prático] | TBD | Entrega em aula 
+P2  | [👨‍💻👩‍💻👔 Projeto prático](content/exercises/03.1-projeto-pratico.md)| TBD 1, TBD 2, TBD 3 | [Entregar]
 
 ### Apresentações - Datas e horários
 
 | Data    | Horário | Grupo | Integrantes                              |
 |---------|---------|-------|------------------------------------------|
-| 21/11   | 19h30   | 4     | Sergio, Thalles, Rodrigo                 |
-| 21/11   | 20h00   | 7     | Bruno Silva                              |
-| 21/11   | 20h30   | 1     | Oziel, Nickolas                          |
-| 21/11   | 21h00   | 9     | Valéria, Gabriel K., Luan, Igor          |
-| 21/11   | 21h30   | 3     | Mateus S., Marina, Danrley, Bianca       |
-| 28/11   | 19h30   | 6     | José, Lucas Amaral, Gabriel P.           |
-| 28/11   | 20h00   | 5     | Matheus G.                               |
-| 28/11   | 20h30   | 2     | João, Maria F., Sérgio G.                |
-| 28/11   | 21h00   | 8     | Luiz, Gabriela                           |
+| TBD     | TBD     | TBD   | TBD                                      |
 
 ## 🗓 Calendário
 
-IDS-002, primeiro semestre de 2024:
-
 Status | Semana | Data                | Conteúdo previsto                                                     
 -------|--------| ------------------- | --------------------------------------------------------------------- 
-  ✅   |1      | 08/08/2024          | [Introdução - Tecnologias Web](#-introdu%C3%A7%C3%A3o---tecnologias-web)
-  ✅   |2      | 15/08/2024   *AT1   | [Rest APIs](#-rest-apis)                                 
-  ✅   |3      | 22/08/2024          | [Spring e Spring Boot](#-spring-boot)                                
-  ✅   |4      | 29/08/2024   **     | [Spring Boot + Rest APIs](#-spring-boot--rest-apis)                          
-  ✅   |--     | _01/09/2024_        | _Prazo final AT1 - Exercício [✏ Rest APIs e Arquitetura Restful](content/exercises/02.2-analise-maturidade.md)_
-  ✅   |5      | 05/09/2024          | [Spring Boot + Rest APIs](#-spring-boot--rest-apis)                                 
-  ✅   |6      | 12/09/2024          | ~[Documentação de APIs](#-swagger-e-documentação-de-apis)~ [Spring Boot + Rest APIs](#-spring-boot--rest-apis)                          
-  ✅   |7      | 19/09/2024          | Revisão de conteúdo e [Iniciação do Projeto Prático / Seleção de temas](content/exercises/03.2-proposals.md)      
-  ✅   |8      | 26/09/2024   *P1    | Avaliação Individual - P1          
-  ✅   |9      | 03/10/2024          | [Organização dos Projetos](content/exercises/03.1-projeto-pratico.md) / [Documentação de APIs](#-swagger-e-documentação-de-apis) / [Spring Data JPA](#-spring-data-jpa)                            
-  ✅   |10     | 10/10/2024          | [Spring Data JPA](#-spring-data-jpa)
-  ✅   |11     | 17/10/2024          | [Spring Data JPA - Herança e Polimorfismo](#-spring-data-jpa)
-  ✅   |12     | 24/10/2024   *AT2   | 1º Check-point dos projetos (_Sprint 01 - Review_)                          
-  ✅   |13     | 31/10/2024          | Spring Bean Validation, Exceptions e Utilitários
-  ✅   |14     | 07/11/2024          | [Spring Data JPA - Queries](#-spring-data-jpa)
-  🔥   |15     | 14/11/2024   *AT3   | [Spring Data JPA - Queries](#-spring-data-jpa) / 2º Check-point dos projetos (_Sprint 02 - Review_)                                         
-  ⏳   |16     | 21/11/2024          | Apresentação dos Projetos (Turma 1)             
-  ⏳   |17     | 28/11/2024          | Apresentação dos Projetos (Turma 2)                                                  
-  ⏳   |18     | 05/12/2024          | Avaliação Individual Substitutiva - P3       
-  ⏳   |19     | 12/12/2024          | Revisão de notas e faltas
-  ⏳   |--     | 13/12/2024          | _Prazo final para lançamento de notas_         
-  ⏳   |20     | 19/12/2024          | Considerações finais                                                                             
+  ⏳   |1      | TBD                 | [Introdução - Tecnologias Web](#-introdu%C3%A7%C3%A3o---tecnologias-web)
+  ⏳   |2      | TBD          *AT1   | [Rest APIs](#-rest-apis)                                 
+  ⏳   |3      | TBD                 | [Spring e Spring Boot](#-spring-boot)                                
+  ⏳   |4      | TBD                 | [Spring Boot + Rest APIs](#-spring-boot--rest-apis)                          
+  ⏳   |--     | _TBD_               | _Prazo final AT1 - Exercício [✏ Rest APIs e Arquitetura Restful](content/exercises/02.2-analise-maturidade.md)_
+  ⏳   |5      | TBD                 | [Spring Boot + Rest APIs](#-spring-boot--rest-apis)                                 
+  ⏳   |6      | TBD                 | ~[Documentação de APIs](#-swagger-e-documentação-de-apis)~ [Spring Boot + Rest APIs](#-spring-boot--rest-apis)                ⏳   |7      | TBD                 | Revisão de conteúdo e [Iniciação do Projeto Prático / Seleção de temas](content/exercises/03.2-proposals.md)      
+  ⏳   |8      | TBD          *P1    | Avaliação Individual - P1          
+  ⏳   |9      | TBD                 | [Organização dos Projetos](content/exercises/03.1-projeto-pratico.md) / [Documentação de APIs](#-swagger-e-documentação-de-apis) / [Spring Data JPA](#-spring-data-jpa)                            
+  ⏳   |10     | TBD                 | [Spring Data JPA](#-spring-data-jpa)
+  ⏳   |11     | TBD                 | [Spring Data JPA - Herança e Polimorfismo](#-spring-data-jpa)
+  ⏳   |12     | TBD          *AT2   | 1º Check-point dos projetos (_Sprint 01 - Review_)                          
+  ⏳   |13     | TBD                 | Spring Bean Validation, Exceptions e Utilitários
+  ⏳   |14     | TBD                 | [Spring Data JPA - Queries](#-spring-data-jpa)
+  ⏳   |15     | TBD          *AT3   | [Spring Data JPA - Queries](#-spring-data-jpa) / 2º Check-point dos projetos (_Sprint 02 - Review_)                        
+  ⏳   |16     | TBD                 | Apresentação dos Projetos (Turma 1)             
+  ⏳   |17     | TBD                 | Apresentação dos Projetos (Turma 2)                                                  
+  ⏳   |18     | TBD                 | Avaliação Individual Substitutiva - P3       
+  ⏳   |19     | TBD                 | Revisão de notas e faltas
+  ⏳   |--     | TBD                 | _Prazo final para lançamento de notas_         
+  ⏳   |20     | TBD                 | Considerações finais                                                                             
  
-** Aulas serão repostas
-
 ---
-
 
 ### 🌎 Links úteis
 
